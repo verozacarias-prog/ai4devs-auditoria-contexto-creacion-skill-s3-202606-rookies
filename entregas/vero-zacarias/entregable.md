@@ -31,6 +31,7 @@
 
 ```markdown
 ---
+name: endpoints-documentation
 description: Documentar endpoints expuestos y listas endpoint documentados. Usar cuando el usuario pida documentar los endpoints.
 ---
 
